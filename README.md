@@ -1,0 +1,1 @@
+# meilisearch-template
