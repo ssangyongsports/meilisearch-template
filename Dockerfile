@@ -1,1 +1,3 @@
-FROM getmeili/meilisearch:v0.26.1
+FROM getmeili/meilisearch:v0.27.0rc1
+
+USER 1000
